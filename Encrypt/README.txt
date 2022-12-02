@@ -2,7 +2,7 @@
 
 Name: Encryptor
 Description: Encrypts the text inside the given path
-Made by: Yusif
+Made by: JosephJuska
 
 ----How to use?----
 
